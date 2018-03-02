@@ -1,0 +1,12 @@
+name:	Reasonable Person email: 	email@site.com message:	Your steaks are too expensive :/
+name:	Dairy Jones email: 	barn@farm.land message:	We have cheese if you want to add to your eggs
+name:	Scarlet email: 	Witch@dc.com message:	I want cake
+name:	Anchor Alice email: 	alice@news.com message:	We heard about your egg sale, we would be interested in doing a short local-news story about it. Can we stop by on Thursday?
+name:	Fred email: 	fred@noemail.life message:	I ate too many microwave meals :c
+name:	Caveman Johnson email: 	left@right.caves message:	your eggs didn't survive the trek into my home-dwelling-space, can i have a refund?
+name:	Angelina email: 	A@iamtheshit.com message:	Steak was very well seasoned
+name:	1 email: 	1@1.com message:	1
+name:	Me email: 	me@there.com message:	Groceries
+name:	Stu email: 	pickles@rr.com message:	Why
+name:	ME email: 	me@site.com message:	hello world
+name:	me email: 	1@go.com message:	yes pls

@@ -1,0 +1,23 @@
+	999 steaks 	999 microwave meals	999 dozens of eggs	$116620.7625	1 Rich Palace
+	 steaks 	3 microwave meals	 dozens of eggs	$11	1234 College Blvd.
+	 steaks 	 microwave meals	999 dozens of eggs	$2335.1625	523 Egg Enthusiasts Ln.
+	 steaks 	 microwave meals	2 dozens of eggs	$4.675	5431 Gonna Egg the Neighbors
+	1 steaks 	23 microwave meals	1 dozens of eggs	$106.76875	6544 WeWantMoreOptions St.
+	1 steaks 	1 microwave meals	1 dozens of eggs	$116.7375	Jupiter
+	432 steaks 	 microwave meals	 dozens of eggs	$47520	Curiosity, Mars
+	 steaks 	 microwave meals	1 dozens of eggs	$2.3375	1234 Wallaby Ln., Australia
+	 steaks 	1 microwave meals	 dozens of eggs	$2.2	6 Really Tired of Microwave Meals
+	 steaks 	 microwave meals	42 dozens of eggs	$98.175	845 Too Many Eggs Circle
+	1 steaks 	 microwave meals	 dozens of eggs	$110	8923 Food
+	37 steaks 	 microwave meals	 dozens of eggs	$4067.8	42667 Fancy Diner St.
+	 steaks 	1 microwave meals	1 dozens of eggs	$6.7375	1 UndergroundBunker St
+	1 steaks 	 microwave meals	 dozens of eggs	$110	1252 1st St. NY, NY
+	4 steaks 	 microwave meals	 dozens of eggs	$440	653 SteakParty Place	 steaks 	 microwave meals	 dozens of eggs	$0	
+	1 steaks 	1 microwave meals	1 dozens of eggs	$116.7375	1
+	2 steaks 	2 microwave meals	2 dozens of eggs	$233.475	2
+	 steaks 	 microwave meals	 dozens of eggs	$0	2
+	 steaks 	 microwave meals	 dozens of eggs	$0	1
+	 steaks 	 microwave meals	 dozens of eggs	$0	3
+	 steaks 	1 microwave meals	 dozens of eggs	$4.4	Here
+	 steaks 	 microwave meals	1 dozens of eggs	$1.16875	There
+	 steaks 	2 microwave meals	 dozens of eggs	$8.8	Classroom
